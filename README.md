@@ -50,13 +50,9 @@ calculatrice-python/
 └── .gitignore
 ```
 
-## Capture d'écran
-
-Vous pouvez ajouter ici une capture d'écran de l'application après son exécution.
-
 ## Auteur
 
-Développé par Big Jérémie.
+Développé par BigJRwiz.
 
 ## Licence
 
